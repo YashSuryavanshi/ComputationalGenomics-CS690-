@@ -1,0 +1,21 @@
+
+name: spatial_clustering_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - scanpy
+  - anndata
+  - numpy
+  - pandas
+  - scikit-learn
+  - leidenalg
+  - seaborn
+  - matplotlib
+  - jupyterlab
+  - h5py
+  - scipy
+  - pip
+  - SOMENDER==1.1
